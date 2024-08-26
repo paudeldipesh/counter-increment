@@ -10,6 +10,9 @@ counter = "DnrXZoXd18kGTkyyBzLpLqza3ezpDTNkmdctEp8pc2X3"
 [programs.devnet]
 counter = "DnrXZoXd18kGTkyyBzLpLqza3ezpDTNkmdctEp8pc2X3"
 
+[programs.testnet]
+counter = "DnrXZoXd18kGTkyyBzLpLqza3ezpDTNkmdctEp8pc2X3"
+
 [registry]
 url = "https://api.apr.dev"
 
